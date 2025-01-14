@@ -3,20 +3,9 @@
  and creates and adds various DrawingObject shapes to its sceneShapes ArrayList to
  create a visual scene that can be displayed within a GUI.
  It also contains methods to handle events related to keyboard input and timers.
- @author Jervie S. Manabat (223961)
+ @author Jervie S. Manabat 
  @version March 6,2023
  **/
-/*
-I have not discussed the Java language code in my program
-with anyone other than my instructor or the teaching assistants
-assigned to this course.
-I have not used Java language code obtained from another student,
-or any other unauthorized source, either modified or unmodified.
-If any Java language code or documentation used in my program
-was obtained from another source, such as a textbook or website,
-that has been clearly noted with a proper citation in the comments
-of my program.
-*/
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
